@@ -1,0 +1,306 @@
+*{
+	border:0px;
+	margin:0px;
+	padding:0px;
+	list-style: none;
+	font-family: '微软雅黑';
+	text-decoration: none;
+}
+a{
+	cursor:pointer;
+}
+.mybody{
+	width: 1100px;
+	margin:auto;
+}
+
+#content_one{
+	height: 420px;
+	margin:auto;
+	padding-top: 35px;
+}
+
+.fontStyle{
+	font-size:24px;
+	color:#d33337; 
+	margin-right: 880px;
+	margin-top: 3px;
+	float:right;
+	*margin-top:-40px;
+}
+.checkOut{
+	margin:15px 0 0 0;
+	float: right;	
+	*margin-top:-30px;
+}
+.checkOut a{
+	font-size:14px;
+	color:#666666;
+	text-decoration:underline;
+}
+.checkOut a:hover{
+	color:#dd4013;
+}
+.somenews_on1{
+	margin-left: 15px;
+	margin-top: 25px;
+}
+.news{
+	width:314px;
+	float:left;
+	margin-right: 60px;
+}
+.page_left{
+	float:left;
+	margin:-240px 0 0 -40px;
+	*margin:-240px 0 0 -30px;
+	}
+.page_left input{
+	background:url(../images/left.png);
+	width:80px;
+	height:80px;
+	filter:alpha(opacity=70); 
+-moz-opacity:0.7; 
+opacity:0.7;
+	cursor:pointer;
+	}
+.page_left input:hover{
+	filter:alpha(opacity=100); 
+	-moz-opacity:1.0; 
+	opacity:1.0;
+	}
+.page_right{
+	float:left;
+	margin:-240px 0 0 0;
+	}
+.page_right input{
+	background:url(../images/right.png);
+	width:80px;
+	height:80px;
+	margin-left:1020px;
+	*margin-left:1015px;
+	filter:alpha(opacity=70); 
+	-moz-opacity:0.7; 
+	opacity:0.7;
+	cursor:pointer;
+	}
+.page_right input:hover{
+	filter:alpha(opacity=100); 
+	-moz-opacity:1.0; 
+	opacity:1.0;
+	}
+.title1{
+	margin-top: 25px;
+	font-size:14px;
+	color:#333333;
+}
+.title1 a{
+	font-size:14px;
+	color:#333;
+	}
+.title1 a:hover{
+	color:#dd4013;
+	}
+.title1_content{
+	display: block;
+	margin-top: 20px;
+	text-indent:2em;
+	font-size:12px;
+	color:#666666;
+}
+.content_two{
+	padding-top: 45px;
+	height: 375px;
+	background:url(../images/space_first.jpg) no-repeat;
+	background-position: top;
+}
+.content_three{
+	background:url(../images/space_second.jpg) no-repeat;
+}
+.report{
+	margin-left: 55px;
+	background-color:white;
+	float:left;
+	padding:10px;
+}
+.myreport{
+	margin-top: 40px;
+}
+.title2{
+	margin-top: 15px;
+	text-align: center;
+	font-size:14px;
+	color:#333333;
+}
+.title2 a{
+	font-size:14px;
+	color:#333;
+	} 
+.title2 a:hover{
+	color:#dd4013;
+	}
+#content_three{
+	
+	height:685px;    
+	margin:auto;
+	
+	padding:57px 0 70px 0;
+}
+.block{
+	height:227px;
+	width:517px;
+	float:left;
+	margin:0 30px 0 0;
+}
+.block_{
+	height:227px;
+	width:517px;
+	float:left;
+	margin:0 0 0 30px;
+}
+.lh2016{
+	float: left;
+}
+.longtitle{
+	height: 39px;
+}
+.kindsOf{
+	width:516px;
+	border-bottom:2px solid rgb(163,50,50);
+	float:left;
+	padding-bottom: 10px;
+}
+.fontStyle_{
+	font-size:24px;
+	color:#d33337; 
+	float:left;
+	margin:5px 290px 0px 25px;
+}
+.checkOut_{
+	margin:15px 0 0 0;
+	float: left;	
+}
+.checkOut_ a:link{
+	font-size:14px;
+	color:#666666;
+	text-decoration:underline;
+}
+.checkOut_ a:hover{
+	color:#dd4013;
+}
+.left{
+	margin:25px 0 0 0;
+	float:left;
+	padding:0 0 0 20px;
+}
+.dateleft{
+	margin:25px 0 0 0;
+	float:left;
+	padding:0 0 0 10px;
+}
+.right1{
+	width:325px;
+	float:left;
+	margin:25px 0 0 45px;
+	font-size:14px;
+	color:#333333;
+}
+.right1title{
+	font-size: 14px;
+	color: #333333;
+	margin-bottom: 25px;
+}
+.right1title a{
+	font-size:14px;
+	color:#333;
+	}
+.right1title a:hover{
+	color:#dd4013;
+	}
+.right1content{
+	width: 300px;
+	line-height:24px;
+}
+.right{
+	width:325px;
+	float:left;
+	margin:25px 0 0 50px;
+
+}
+.right a{
+	font-size:14px;
+	color:#333333;
+	}
+.right a:hover{
+	color:#dd4013;
+	}
+.alineblock{
+	height: 40px;
+	margin-bottom: 15px;
+}
+.small_block{
+	color: #8c0000;
+	width:122px;
+	float: left;
+	height:30px;
+	background-color:#f4f4f4;
+	text-align:center;
+	padding-top: 10px;
+}
+.block_content{
+
+	float: left;
+	margin-top: 10px;
+	margin-left: 50px;
+}
+.block_content a{
+	font-size: 14px;
+	color: #333333;
+	}
+.block_content a:hover{
+	color:#dd4013;
+	}
+.date{
+	font-family:'Georgia';
+	font-size:16px;
+	color:#8c0000;
+	height:25px;
+	width:128px;
+	border-right:1px solid gray;
+	margin:13px 0 0 0;
+	padding:5px 0 0 0;
+}
+
+/*友情链接部分*/
+.links{
+	margin-top: 30px;
+}
+.link{
+	margin: auto;
+	float: left;
+	margin-bottom: 30px;
+}
+.software_logo{
+	float: left;
+	margin-top: 30px;
+	margin-left: 20px;
+	
+}
+.many_link{
+	float: left;
+	margin:auto;
+	margin-left: 30px;
+}
+.many_link ul{
+	float: left;
+	width: 600px;
+	margin-bottom: 20px;
+}
+.many_link ul li{
+	float: left;
+	padding-left: 55px;
+	padding-right: 8px;
+	padding-top: 10px;
+	padding-bottom: 35px;
+}
+
