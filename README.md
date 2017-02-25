@@ -1,7 +1,7 @@
 # truth
 舞动指尖网站设计大赛作品（以两会为主题）
 <p>首页</p>
-<p>![](https://github.com/twr2016/truth/blob/master/photo/index.png?raw=true)</p>
+![](https://github.com/twr2016/truth/blob/master/photo/index.png?raw=true)
 <p>![](https://github.com/twr2016/truth/blob/master/photo/index1.png?raw=true)</p>
 <p>![image](https://github.com/twr2016/truth/blob/master/photo/index2.png?raw=true)</p>
 <p>![image](https://github.com/twr2016/truth/blob/master/photo/index3.png?raw=true)</p>
