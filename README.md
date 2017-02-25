@@ -1,5 +1,5 @@
 # truth
-舞动指尖网站设计大赛作品（以两会为主题）,获得河北师范大学科技文化艺术节舞动指尖网站设计大赛二等奖
+舞动指尖网站设计大赛作品（以两会为主题），获得河北师范大学科技文化艺术节舞动指尖网站设计大赛二等奖
 <p>首页</p>
 ![](https://github.com/twr2016/truth/blob/master/photo/index.png?raw=true)
 <p>index1.png</p>
